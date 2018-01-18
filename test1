@@ -1,27 +1,3 @@
-Last login: Thu Jan 18 11:24:47 on ttys000
-twizzler:~ alolinco$ test.txt
--bash: test.txt: command not found
-twizzler:~ alolinco$ open test.txt
-The file /Users/alolinco/test.txt does not exist.
-twizzler:~ alolinco$ vim
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Hi! This is just another test run for Annabelle to try out saving the file from
 the Vim editor to a searchable file.
 
