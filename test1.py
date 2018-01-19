@@ -1,7 +1,4 @@
-Hi! This is just another test run for Annabelle to try out saving the file from
-the Vim editor to a searchable file.
-
-Hopefully this works!
+#print "Hello World!"
 ~                                                                               
 ~                                                                               
 ~                                                                               
