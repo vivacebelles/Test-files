@@ -1,7 +1,7 @@
 import os
-print os.name;
+print os.name
 import datetime
 import time
 
 t = time.ctime(path.getmtime("classes.py")
-print t;
+print t
