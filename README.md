@@ -12,3 +12,8 @@ Updates: all python files now work on some basic commands! Yes! :) \o/
 Finished through the basic beginner's "Learning Python" via Lynda.com, and it's been great! Now I have a better working understanding of working with the code. I just need to get used to doing shell work and getting them to committed amongst all the places I have available for work.
 
 Need to look at OSpathutils.py again though!
+
+01/26/2018
+Starting Py3 Essential Training, so I will be reviewing and strengthening my skills in Python (and specifically with the most current version of Python).
+
+So I'll probably build off of the same py code files I've been utilizing but may add new files.
