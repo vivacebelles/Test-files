@@ -17,3 +17,7 @@ Need to look at OSpathutils.py again though!
 Starting Py3 Essential Training, so I will be reviewing and strengthening my skills in Python (and specifically with the most current version of Python).
 
 So I'll probably build off of the same py code files I've been utilizing but may add new files.
+
+01/29/2018
+
+Added more files through the Python Training. Weirdly enough, Py3 is not doing accepting the def main() in the coding that I've been doing, and I haven't exactly figured out why. But, I'm learning about objects and classes more thoroughly now. So, progress is great!
