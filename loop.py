@@ -11,4 +11,9 @@ print("Now onto for loops!")
 
 fh = open('lines.txt', 'w+')
 for line in fh.readlines():
-	print(line, end =' ')
+	print(line, end = ' ')
+
+words = ["hello", "world", "today", "is", "a", "good", "day"
+
+for i in words:
+	print(i)
