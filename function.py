@@ -14,3 +14,9 @@ for n in range(1,20):
 	isprime(n)
 
 print ("Done!")
+
+def function(n=2):
+	print(n)
+
+function(32)
+
