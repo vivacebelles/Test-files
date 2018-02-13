@@ -24,3 +24,5 @@ Added more files through the Python Training. Weirdly enough, Py3 is not doing a
 
 02/13/2018
 It's been a while! So, I've done some more essential training with Python on Lynda with the new Python 3 module. Funnily enough, there is a distint difference since the print is a function now that some of the old code doesn't work from python 2 to 3. Will be updating!
+
+Interesting. Looks like Python3 doesn't have the libraries that Python 2 has to do test runs (like the earthquake runs). Well, now I know, and the code is cleaner and Python3 compliant though.
