@@ -21,3 +21,6 @@ So I'll probably build off of the same py code files I've been utilizing but may
 01/29/2018
 
 Added more files through the Python Training. Weirdly enough, Py3 is not doing accepting the def main() in the coding that I've been doing, and I haven't exactly figured out why. But, I'm learning about objects and classes more thoroughly now. So, progress is great!
+
+02/13/2018
+It's been a while! So, I've done some more essential training with Python on Lynda with the new Python 3 module. Funnily enough, there is a distint difference since the print is a function now that some of the old code doesn't work from python 2 to 3. Will be updating!
