@@ -17,5 +17,14 @@ print(x)
 a = "Why can you not trust atoms?"
 print(a)
 m,p = "make up","everything"
-print("Because they {m} {p}".format(m,p))
+print(f"Because they {m}{p}")
 
+print("Now it's on to string functions!")
+class bunny:
+	def __init__(self, n):
+		self.n = n
+	def __repr__(self):
+		return f"the number of bunnies is {self.n}"
+
+x = bunny(32)
+print(x)

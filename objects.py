@@ -16,3 +16,17 @@ print( s1 + s2)
 #Time to format strings
 x = 42
 print("The number is always {}".format(x))
+
+print("now for formatting!")
+
+x = 42
+y = 3
+print(f"{x:+} and {y:-} are the numbers contained in x and y")
+
+list = "This is a list of words I decided to split."
+print(list)
+print(list.split())
+print(list.split("is"))
+print(list.split("t"))
+ls2 = ":".join(list)
+print(ls2)
